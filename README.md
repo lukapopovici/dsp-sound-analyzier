@@ -43,6 +43,7 @@ I got scammed into taking it because the subject had "Data" in the name, but it'
   ### Important: Some overwrite previous versions. 
 - **Envelope Extraction:**  
   - Option to display the envelope of the signal.
+![image](https://github.com/user-attachments/assets/10dc472e-a537-4da7-8135-12558b5bbefa)
 
 ## How It Works
 
@@ -64,4 +65,4 @@ I got scammed into taking it because the subject had "Data" in the name, but it'
 - Python 3.x (for the data extraction script)
 - `numpy` and `scipy` Python packages
 
-
+### Note: All the english comments in the Et1.c have been made by GPT so I claim 0 responsability for everything written there. 
