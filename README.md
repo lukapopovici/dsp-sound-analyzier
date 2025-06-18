@@ -11,7 +11,7 @@ I got scammed into taking it because the subject had "Data" in the name, but it'
 
    It's called directly from inside the NI program so I suggest going around and changing it accordingly based on what your wav is. 
 
-   # Also, I think the code is hardset to 2 channels, so either edit the audio file before processing or you lose information. 
+   ### Also, I think the code is hardset to 2 audio channels, so either thinker with the audio file before processing or you lose information. 
 
 - **Graphical User Interface:**  
   Built with National Instruments LabWindows/CVI, the GUI allows users to:
